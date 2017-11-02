@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Hammersmith+One');
+
+body {
+	background-color: black;
+	font-family: 'Hammersmith One' , sans serif;
+    display: table;
+    size: 600px;
+}
+
+html, body {
+	height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+h1 {
+	size: 400px;
+	color: white;
+}
+
+p {
+	color: white;
+}
+            
+.my-block {
+   text-align: center;
+   display: table-cell;
+   vertical-align: middle;
+ 
+ }
